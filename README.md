@@ -13,7 +13,7 @@ Pins | SPI      | UNO
 
 4    | MISO     |  12
 
-5    | IRQ      |  NO
+5    | IRQ      |  NC
 
 6    | GND      |  GND
 
